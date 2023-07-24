@@ -1,0 +1,17 @@
+*{
+    padding-inline-end: 0%;
+}
+@mixin flex($h, $a) {
+    display: flex;
+    align-items: $a;
+    justify-content: $h;
+}
+$width : 50%;
+p{
+    width: 100%- $width;
+    @include flex(center, center);
+}
+.div{
+    @include flex(flex-end, center);
+}
+

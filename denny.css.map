@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,CAAC,CAAA;EACG,kBAAkB,EAAE,EAAE;CACzB;;AAOD,AAAA,CAAC,CAAA;EACG,KAAK,EAAE,GAAY;EANnB,OAAO,EAAE,IAAI;EACb,WAAW,EAMY,MAAM;EAL7B,eAAe,EAKD,OAAO;CACxB;;AACD,AAAA,IAAI,CAAA;EATA,OAAO,EAAE,IAAI;EACb,WAAW,EASa,MAAM;EAR9B,eAAe,EAQD,QAAQ;CACzB",
+    "sources": [
+        "denny.scss"
+    ],
+    "names": [],
+    "file": "denny.css"
+}
